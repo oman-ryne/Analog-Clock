@@ -1,4 +1,5 @@
-## Analog Clock: A simple analog clock that displays the current time dynamically.
+## Analog Clock
+A simple analog clock that displays the current time dynamically.
 
 ## Features
 Real-time hour, minute, and second hands
